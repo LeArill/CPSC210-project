@@ -1,0 +1,36 @@
+{"hierarchy": [
+    {
+        "notes": [{
+            "title": "test for demobook",
+            "content": "..."
+        }],
+        "folderName": "demobook"
+    },
+    {
+        "notes": [{
+            "title": "test for trash",
+            "content": "..."
+        }],
+        "folderName": "trash"
+    },
+    {
+        "notes": [
+            {
+                "title": "2000-1-1",
+                "content": "Nothing to say..."
+            },
+            {
+                "title": "2019-1-1",
+                "content": "Today is a sunny day."
+            }
+        ],
+        "folderName": "diary"
+    },
+    {
+        "notes": [{
+            "title": "C2",
+            "content": "exception"
+        }],
+        "folderName": "classnote"
+    }
+]}
